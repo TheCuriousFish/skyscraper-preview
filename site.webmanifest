@@ -1,0 +1,22 @@
+{
+  "name": "شركة ناطحات السحاب الكويتية لتشييد المباني",
+  "short_name": "ناطحات السحاب",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#12302A",
+  "theme_color": "#12302A",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
