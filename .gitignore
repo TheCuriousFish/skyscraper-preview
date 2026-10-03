@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+
+# Secrets — never commit, even test values
+.env
+.env.*
+!.env.example
+*.local.*
